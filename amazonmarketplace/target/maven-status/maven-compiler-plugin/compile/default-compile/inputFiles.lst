@@ -1,0 +1,8 @@
+C:\E\Spring Boot Api\amazonmarketplace\src\main\java\com\example\amazonmarketplace\AmazonmarketplaceApplication.java
+C:\E\Spring Boot Api\amazonmarketplace\src\main\java\com\example\amazonmarketplace\controllers\ProductController.java
+C:\E\Spring Boot Api\amazonmarketplace\src\main\java\com\example\amazonmarketplace\dto\ProductDto.java
+C:\E\Spring Boot Api\amazonmarketplace\src\main\java\com\example\amazonmarketplace\mapper\ProductMapper.java
+C:\E\Spring Boot Api\amazonmarketplace\src\main\java\com\example\amazonmarketplace\models\Product.java
+C:\E\Spring Boot Api\amazonmarketplace\src\main\java\com\example\amazonmarketplace\repositories\ProductRepository.java
+C:\E\Spring Boot Api\amazonmarketplace\src\main\java\com\example\amazonmarketplace\services\Impl\ProductServiceImpl.java
+C:\E\Spring Boot Api\amazonmarketplace\src\main\java\com\example\amazonmarketplace\services\ProductService.java
